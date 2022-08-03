@@ -1,0 +1,1 @@
+"# MGC Linux Official website"
